@@ -1,0 +1,343 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-23",
+  "palette": "#5B5A56",
+  "viewBox": "0 0 24 24",
+  "icons": [
+    {
+      "key": "backpack",
+      "path": "icons/backpack.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "balaclava",
+      "path": "icons/balaclava.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "base-top",
+      "path": "icons/base-top.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "beanie",
+      "path": "icons/beanie.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "bicycle",
+      "path": "icons/bicycle.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "bike-light",
+      "path": "icons/bike-light.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "bottle",
+      "path": "icons/bottle.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "bowl",
+      "path": "icons/bowl.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "camera",
+      "path": "icons/camera.svg",
+      "origin": "Tabler Icons MIT (camera)"
+    },
+    {
+      "key": "camp-booties",
+      "path": "icons/camp-booties.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "camp-pot",
+      "path": "icons/camp-pot.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "compression-sack",
+      "path": "icons/compression-sack.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "cup",
+      "path": "icons/cup.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "cutlery",
+      "path": "icons/cutlery.svg",
+      "origin": "Tabler Icons MIT (tools-kitchen-2)"
+    },
+    {
+      "key": "dry-bag",
+      "path": "icons/dry-bag.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "emergency-bivy",
+      "path": "icons/emergency-bivy.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "first-aid",
+      "path": "icons/first-aid.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "flashlight",
+      "path": "icons/flashlight.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "floss",
+      "path": "icons/floss.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "foam-mat",
+      "path": "icons/foam-mat.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "gaiters",
+      "path": "icons/gaiters.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "gloves",
+      "path": "icons/gloves.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "groundsheet",
+      "path": "icons/groundsheet.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "hammock",
+      "path": "icons/hammock.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "headlamp",
+      "path": "icons/headlamp.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "helmet-cover",
+      "path": "icons/helmet-cover.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "hydration",
+      "path": "icons/hydration.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "jacket",
+      "path": "icons/jacket.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "knife",
+      "path": "icons/knife.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "lantern",
+      "path": "icons/lantern.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "packing-cube",
+      "path": "icons/packing-cube.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "pannier",
+      "path": "icons/pannier.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "pants",
+      "path": "icons/pants.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "pillow",
+      "path": "icons/pillow.svg",
+      "origin": "Tabler Icons MIT (pillow)"
+    },
+    {
+      "key": "plate",
+      "path": "icons/plate.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "pump",
+      "path": "icons/pump.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "pump-sack",
+      "path": "icons/pump-sack.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "quilt",
+      "path": "icons/quilt.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "radio",
+      "path": "icons/radio.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "reflective-tape",
+      "path": "icons/reflective-tape.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "sandals",
+      "path": "icons/sandals.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "shoes",
+      "path": "icons/shoes.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "shower",
+      "path": "icons/shower.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "skullcap",
+      "path": "icons/skullcap.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "sleeping-bag",
+      "path": "icons/sleeping-bag.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "sleeping-liner",
+      "path": "icons/sleeping-liner.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "sleeping-pad",
+      "path": "icons/sleeping-pad.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "socks",
+      "path": "icons/socks.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "solar-panel",
+      "path": "icons/solar-panel.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "solar-radio",
+      "path": "icons/solar-radio.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "spice-jar",
+      "path": "icons/spice-jar.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "stove",
+      "path": "icons/stove.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "tarp",
+      "path": "icons/tarp.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "tarp-poles",
+      "path": "icons/tarp-poles.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "tent",
+      "path": "icons/tent.svg",
+      "origin": "Tabler Icons MIT (tent)"
+    },
+    {
+      "key": "thermal-leggings",
+      "path": "icons/thermal-leggings.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "thermometer",
+      "path": "icons/thermometer.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "towel",
+      "path": "icons/towel.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "trekking-poles",
+      "path": "icons/trekking-poles.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "umbrella",
+      "path": "icons/umbrella.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "vacuum-flask",
+      "path": "icons/vacuum-flask.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "wallet",
+      "path": "icons/wallet.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "washbag",
+      "path": "icons/washbag.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "water-filter",
+      "path": "icons/water-filter.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "whistle",
+      "path": "icons/whistle.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "wide-hat",
+      "path": "icons/wide-hat.svg",
+      "origin": "Original Outdoors vector"
+    },
+    {
+      "key": "worklight",
+      "path": "icons/worklight.svg",
+      "origin": "Original Outdoors vector"
+    }
+  ]
+}
